@@ -5,6 +5,7 @@ const url = require("url");
 
 var recordAction = {
     "action": "record",
+    "eventUrl": "https://duyky-server.cyclic.app/event-url",
     "format": ""
 };
 var connectAction = {
